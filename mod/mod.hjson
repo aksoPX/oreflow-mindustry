@@ -1,0 +1,7 @@
+name: oreflow
+displayName: "[dceca9]Oreflow[]"
+author: Oreflow Workshop
+description: "Dense ore-field planner. Drills, real bridge links, water extractors, power nodes and two-dock plastanium exits. F7 opens settings. Preview and confirm before queuing vanilla build plans."
+version: 0.2.0
+minGameVersion: 146
+hidden: true

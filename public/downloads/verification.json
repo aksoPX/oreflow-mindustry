@@ -1,0 +1,77 @@
+{
+  "modVersion": "0.2.0",
+  "artifactSha256": "2f9c0c78f100a9436b01bd39bb204e269c49ca57aafd37f0ee5314396a4b8527",
+  "nativeEngines": [
+    {
+      "runtime": "146",
+      "checks": 810,
+      "drills": 32,
+      "coverage": 81,
+      "outputEstimate": 274.6181900024415,
+      "watered": 32,
+      "placements": 365,
+      "warnings": [],
+      "receiverChecks": 32,
+      "powerConnectionsChecked": 179,
+      "waterConnectionsChecked": 27,
+      "status": "PASS",
+      "release": "v146",
+      "runtimeSha256": "9bb8327b9e356b7ebd11d5e6a9214094ccdc63f0a2517ea1dee27554490dcb3e"
+    },
+    {
+      "runtime": "160",
+      "checks": 810,
+      "drills": 32,
+      "coverage": 81,
+      "outputEstimate": 274.6181900024415,
+      "watered": 32,
+      "placements": 365,
+      "warnings": [],
+      "receiverChecks": 32,
+      "powerConnectionsChecked": 179,
+      "waterConnectionsChecked": 27,
+      "status": "PASS",
+      "release": "v160.8",
+      "runtimeSha256": "faeaf247a8b622de940181a96cb21cb20692d3c3da4e8ac3f79cb4af5059aa6c"
+    }
+  ],
+  "checks": [
+    "Actual script import",
+    "Build.validPlace",
+    "No overlapping footprints",
+    "Native bridge linkValid",
+    "Native plastanium stateLoad",
+    "Power-node connection limit",
+    "Connected power graph",
+    "Water bridge input from extractor",
+    "Drill item acceptance"
+  ],
+  "notVerified": [
+    "Long-running steady-state flow on arbitrary maps",
+    "Every modpack and multiplayer server",
+    "Global mathematical optimality"
+  ],
+  "desktopUI": [
+    {
+      "release": "v146",
+      "settingsDialog": "PASS",
+      "hudCreation": "PASS",
+      "runtime": "Real SDL/OpenGL client under Xvfb"
+    }
+  ],
+  "webRegression": {
+    "status": "PASS",
+    "testsPassed": 14,
+    "targets": [
+      "desktop Chromium",
+      "mobile Chromium"
+    ],
+    "includes": [
+      "Archive downloads",
+      "Favorites and persistence",
+      "Shared engine geometry and capacity invariants",
+      "Settings and resource compatibility",
+      "Responsive pages"
+    ]
+  }
+}
