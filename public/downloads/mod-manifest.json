@@ -1,0 +1,13 @@
+{
+  "name": "oreflow-mod-0.2.0.zip",
+  "version": "0.2.0",
+  "format": "Mindustry native JavaScript mod ZIP",
+  "file": "/downloads/oreflow-mod-0.2.0.zip",
+  "bytes": 38643,
+  "sha256": "9dc382c71434e9874d7e336e06433d998a58fd61aa42d3bffe71b4e25efed833",
+  "engine": "shared TypeScript compiled to ES5 CommonJS",
+  "targets": [
+    "v146",
+    "v160.8"
+  ]
+}

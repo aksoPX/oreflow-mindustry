@@ -1,0 +1,305 @@
+{
+  "modVersion": "0.2.0",
+  "artifactSha256": "b7f89e1fb22ac638fc981567122691b31ed9885ca0f5adb8bb0bff3cc844e5be",
+  "nativeEngines": [
+    {
+      "release": "v146",
+      "runtime": "146",
+      "checks": 3655,
+      "scenarios": [
+        {
+          "runtime": "146",
+          "scenario": "auto/auto/plastanium",
+          "checks": 1088,
+          "drills": 29,
+          "coverage": 73,
+          "outputEstimate": 199.8363686301492,
+          "watered": 16,
+          "phaseConnections": 69,
+          "placements": 477,
+          "warnings": [
+            "dome-needs-fuel",
+            "unrouted-drill",
+            "water-shortfall"
+          ],
+          "receiverChecks": 29,
+          "powerConnectionsChecked": 154,
+          "waterConnectionsChecked": 22,
+          "queueFieldRegression": "PASS",
+          "sorterFilters": "PASS",
+          "status": "PASS"
+        },
+        {
+          "runtime": "146",
+          "scenario": "auto/bridge/titanium",
+          "checks": 859,
+          "drills": 20,
+          "coverage": 52,
+          "outputEstimate": 168.8181866732511,
+          "watered": 17,
+          "phaseConnections": 0,
+          "placements": 457,
+          "warnings": [
+            "dome-needs-fuel",
+            "unrouted-drill",
+            "water-shortfall"
+          ],
+          "receiverChecks": 20,
+          "powerConnectionsChecked": 45,
+          "waterConnectionsChecked": 19,
+          "queueFieldRegression": "PASS",
+          "sorterFilters": "PASS",
+          "status": "PASS"
+        },
+        {
+          "runtime": "146",
+          "scenario": "external/auto/plastanium",
+          "checks": 758,
+          "drills": 29,
+          "coverage": 73,
+          "outputEstimate": 172.18182182312015,
+          "watered": 12,
+          "phaseConnections": 29,
+          "placements": 389,
+          "warnings": [
+            "dome-needs-fuel",
+            "unrouted-drill",
+            "water-shortfall",
+            "external-water"
+          ],
+          "receiverChecks": 29,
+          "powerConnectionsChecked": 78,
+          "waterConnectionsChecked": 0,
+          "queueFieldRegression": "PASS",
+          "sorterFilters": "PASS",
+          "status": "PASS"
+        },
+        {
+          "runtime": "146",
+          "scenario": "auto/phase/plastanium",
+          "checks": 950,
+          "drills": 27,
+          "coverage": 73,
+          "outputEstimate": 247.85455284118657,
+          "watered": 27,
+          "phaseConnections": 107,
+          "placements": 350,
+          "warnings": [
+            "dome-needs-fuel"
+          ],
+          "receiverChecks": 27,
+          "powerConnectionsChecked": 225,
+          "waterConnectionsChecked": 22,
+          "queueFieldRegression": "PASS",
+          "sorterFilters": "PASS",
+          "status": "PASS"
+        }
+      ],
+      "status": "PASS",
+      "runtimeSha256": "9bb8327b9e356b7ebd11d5e6a9214094ccdc63f0a2517ea1dee27554490dcb3e",
+      "fullTypeScriptRhinoParity": "PASS"
+    },
+    {
+      "release": "v160.8",
+      "runtime": "160",
+      "checks": 3655,
+      "scenarios": [
+        {
+          "runtime": "160",
+          "scenario": "auto/auto/plastanium",
+          "checks": 1088,
+          "drills": 29,
+          "coverage": 73,
+          "outputEstimate": 199.8363686301492,
+          "watered": 16,
+          "phaseConnections": 69,
+          "placements": 477,
+          "warnings": [
+            "dome-needs-fuel",
+            "unrouted-drill",
+            "water-shortfall"
+          ],
+          "receiverChecks": 29,
+          "powerConnectionsChecked": 154,
+          "waterConnectionsChecked": 22,
+          "queueFieldRegression": "PASS",
+          "sorterFilters": "PASS",
+          "status": "PASS"
+        },
+        {
+          "runtime": "160",
+          "scenario": "auto/bridge/titanium",
+          "checks": 859,
+          "drills": 20,
+          "coverage": 52,
+          "outputEstimate": 168.8181866732511,
+          "watered": 17,
+          "phaseConnections": 0,
+          "placements": 457,
+          "warnings": [
+            "dome-needs-fuel",
+            "unrouted-drill",
+            "water-shortfall"
+          ],
+          "receiverChecks": 20,
+          "powerConnectionsChecked": 45,
+          "waterConnectionsChecked": 19,
+          "queueFieldRegression": "PASS",
+          "sorterFilters": "PASS",
+          "status": "PASS"
+        },
+        {
+          "runtime": "160",
+          "scenario": "external/auto/plastanium",
+          "checks": 758,
+          "drills": 29,
+          "coverage": 73,
+          "outputEstimate": 172.18182182312015,
+          "watered": 12,
+          "phaseConnections": 29,
+          "placements": 389,
+          "warnings": [
+            "dome-needs-fuel",
+            "unrouted-drill",
+            "water-shortfall",
+            "external-water"
+          ],
+          "receiverChecks": 29,
+          "powerConnectionsChecked": 78,
+          "waterConnectionsChecked": 0,
+          "queueFieldRegression": "PASS",
+          "sorterFilters": "PASS",
+          "status": "PASS"
+        },
+        {
+          "runtime": "160",
+          "scenario": "auto/phase/plastanium",
+          "checks": 950,
+          "drills": 27,
+          "coverage": 73,
+          "outputEstimate": 247.85455284118657,
+          "watered": 27,
+          "phaseConnections": 107,
+          "placements": 350,
+          "warnings": [
+            "dome-needs-fuel"
+          ],
+          "receiverChecks": 27,
+          "powerConnectionsChecked": 225,
+          "waterConnectionsChecked": 22,
+          "queueFieldRegression": "PASS",
+          "sorterFilters": "PASS",
+          "status": "PASS"
+        }
+      ],
+      "status": "PASS",
+      "runtimeSha256": "faeaf247a8b622de940181a96cb21cb20692d3c3da4e8ac3f79cb4af5059aa6c",
+      "fullTypeScriptRhinoParity": "PASS"
+    }
+  ],
+  "checks": [
+    "Actual script import",
+    "Build.validPlace",
+    "No overlapping footprints",
+    "Native bridge linkValid",
+    "Native plastanium stateLoad",
+    "Power-node connection limit",
+    "Connected power graph",
+    "Water bridge input and storage from extractor",
+    "Drill item acceptance",
+    "Rhino unit.plans field with nonempty Queue",
+    "Map block bans",
+    "Separate silicon/phase-fabric sorter configurations",
+    "Single utility ports",
+    "Ordinary-only routing has zero phase connections",
+    "Stale plan rejection"
+  ],
+  "notVerified": [
+    "Long-running steady-state item and liquid throughput on arbitrary maps",
+    "Every campaign research state, modpack and multiplayer server",
+    "Physical mouse selection: native TapEvent handler was exercised instead",
+    "External fuel, energy, water supply and automatic delivery to the core",
+    "Saving world markers across game restarts",
+    "Global mathematical optimality or globally minimal phase block count"
+  ],
+  "desktopUI": [
+    {
+      "release": "v146",
+      "artifactSha256": "b7f89e1fb22ac638fc981567122691b31ed9885ca0f5adb8bb0bff3cc844e5be",
+      "runtimeSha256": "3ab0e46c3cbdc863529ba05e804847ef00e3dbdb4567b5c27c5e6dce071b93f9",
+      "runtime": "official SDL/OpenGL client under Xvfb, software Mesa",
+      "f7PhysicalKey": "PASS",
+      "settingsDialog": "PASS",
+      "hudCreation": "PASS",
+      "oreTapWithOpenUnitQueue": "PASS",
+      "previewRendering": "PASS",
+      "escapePhysicalKey": "PASS",
+      "status": "PASS"
+    },
+    {
+      "release": "v160.8",
+      "artifactSha256": "b7f89e1fb22ac638fc981567122691b31ed9885ca0f5adb8bb0bff3cc844e5be",
+      "runtimeSha256": "6dd6da921d5021a84823456e05b477ee8de8511990d40de850b37dd0905152f2",
+      "runtime": "official SDL/OpenGL client under Xvfb, software Mesa",
+      "f7PhysicalKey": "PASS",
+      "settingsDialog": "PASS",
+      "hudCreation": "PASS",
+      "oreTapWithOpenUnitQueue": "PASS",
+      "previewRendering": "PASS",
+      "escapePhysicalKey": "PASS",
+      "status": "PASS"
+    }
+  ],
+  "generatedAt": "2026-11-20T11:38:58.580Z",
+  "source": {
+    "repository": "https://github.com/aksoPX/oreflow-mindustry",
+    "baseCommit": "4de4d89f51505d027ce3c66a0a40c35e0be66b48"
+  },
+  "nativeCheckCount": 7310,
+  "webRegression": {
+    "status": "PASS",
+    "testsPassed": 42,
+    "failures": 0,
+    "skipped": 0,
+    "flaky": 0,
+    "targets": [
+      "desktop Chromium",
+      "mobile Chromium"
+    ],
+    "viewportWidths": [
+      360,
+      390,
+      430,
+      768,
+      1440
+    ],
+    "includes": [
+      "Settings and before/after",
+      "Save, reload, reopen, export, delete",
+      "Favorites and search",
+      "Focus trap, Escape and Cyrillic font",
+      "Real ZIP downloads",
+      "No horizontal overflow",
+      "Shared engine capacity and geometry regressions",
+      "ES5 CommonJS parity"
+    ]
+  },
+  "build": {
+    "vite": "PASS",
+    "typescriptNoEmit": "PASS"
+  },
+  "archiveChecks": {
+    "modRootHjson": "PASS",
+    "standaloneCopiesIdentical": "PASS",
+    "pythonZipfileTestzip": "PASS",
+    "nestedModPath": "mod/oreflow-mod-0.2.0.zip",
+    "recursiveArchiveExcluded": true
+  },
+  "limitationsRu": [
+    "Алгоритм эвристический: 100% покрытия, глобальный максимум и абсолютный минимум фазовых не доказаны.",
+    "Цифры добычи условны до подачи питания, воды и топлива; это не измерение устойчивого трафика.",
+    "Навигатор до ядра пока только идея. В моде есть вывод внутри плана добычи.",
+    "В «Авто» водный вход резервный, ускорение считается от насосов. Во «Внешней воде» подача нужна снаружи.",
+    "Маркеры сохраняются только в текущем сеансе карты."
+  ]
+}

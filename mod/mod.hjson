@@ -1,0 +1,7 @@
+name: oreflow
+displayName: "[dceca9]Oreflow[]"
+author: Oreflow Workshop
+description: "Планировщик добычи Серпуло. F7: выбрать жилу, проверить предпросмотр и добавить обычные планы в очередь. Внешние входы энергии и ресурсов. Без бесплатной стройки и сноса."
+version: 0.2.0
+minGameVersion: 146
+hidden: true

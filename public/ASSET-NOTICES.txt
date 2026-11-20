@@ -1,0 +1,8 @@
+Mindustry sprites: Anuken and contributors, GPL-3.0.
+Source: https://github.com/Anuken/Mindustry/tree/v146/core/assets-raw/sprites
+Full license: /mindustry-license.txt
+
+Manrope font: Mikhail Sharanda and contributors, SIL Open Font License 1.1.
+Full license: /manrope-license.txt
+
+Oreflow is an independent project and is not an official Mindustry release.
